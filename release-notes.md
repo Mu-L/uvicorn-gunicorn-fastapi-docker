@@ -37,6 +37,7 @@
 
 ### Internal
 
+* 👷 Fix latest-changes checkout target. PR [#474](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/474) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update issue-manager to 0.8.1. PR [#472](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/472) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#470](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/470) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Simplify pull request workflow triggers. PR [#465](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/465) by [@tiangolo](https://github.com/tiangolo).
