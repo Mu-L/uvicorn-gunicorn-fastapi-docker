@@ -37,6 +37,7 @@
 
 ### Internal
 
+* 🔥 Remove the old Latest Changes workflow. PR [#482](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/482) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade latest-changes to 0.7.1. PR [#481](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/481) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Fix Docker action pin version comments. PR [#475](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/475) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#474](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/474) by [@tiangolo](https://github.com/tiangolo).
