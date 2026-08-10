@@ -39,6 +39,7 @@
 
 ### Internal
 
+* 👷 Remove legacy label check. PR [#486](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/486) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the github-actions group across 1 directory with 7 updates. PR [#479](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/479) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔧 Fix Zizmor version comments. PR [#483](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/483) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove the old Latest Changes workflow. PR [#482](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/482) by [@tiangolo](https://github.com/tiangolo).
